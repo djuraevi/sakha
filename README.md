@@ -1,4 +1,6 @@
-# Vue 3 Modal with Folder Tree
+## Проект: Vue 3 Modal with Folder Tree
+
+Перейдите по [ссылке](https://sakha-mocha.vercel.app), чтобы посмотреть проект в действии.
 
 ## Описание проекта
 
@@ -42,7 +44,7 @@
         npm i
      ```
 4. Запустите приложение:
-    ```bash
-        npm run serve
-     ```
+   ```bash
+     npm run serve
+   ```
 
